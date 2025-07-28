@@ -1,3 +1,5 @@
+# Zoro - Automated Anime Streaming Platform
+
 <p align="center">
 <a href=https://github.com/fiskryeziu/zoroClone target="_blank">
 <img src='./src//assets//images/banner.png' width="100%" alt="Banner" />
